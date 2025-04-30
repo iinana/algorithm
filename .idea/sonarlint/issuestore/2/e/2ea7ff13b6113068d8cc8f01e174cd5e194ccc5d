@@ -1,0 +1,11 @@
+
+{
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").(¢ë€Ïüÿÿÿÿ8ì¾Çè2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©È±úÿÿÿÿ8ì¾Çè2
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Å©È±úÿÿÿÿ8ì¾Çè2
+v	java:S116"URename this field "genr_plays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç›«ƒÿÿÿÿÿ8»í¾Çè2
+v	java:S116"URename this field "song_plays" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¹à”Àüÿÿÿÿ8»í¾Çè2
+v
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Ğ ö8¼í¾Çè2
+E
+java:S16591"#Declare "count" on a separate line.(ãôìÿùÿÿÿÿ8Êí¾Çè2
